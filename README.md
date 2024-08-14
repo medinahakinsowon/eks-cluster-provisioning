@@ -8,7 +8,7 @@ To access the cluster you have to authenticate
 
 aws eks update-kubeconfig --name codemed-cluster --region us-east-1
 
-Now the access your cluster
+Now the access your cluster---
 kubectl get nodes
 
 Now deploy your app into the cluster---
