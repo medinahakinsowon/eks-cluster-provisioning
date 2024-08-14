@@ -6,4 +6,6 @@ The Amazon VPC CNI plugin for Kubernetes is the networking plugin for Pod networ
 
 To access the cluster you have to authenticate
 
+aws eks update-kubeconfig --name codemed-cluster --region us-east-1
+
 
